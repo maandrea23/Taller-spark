@@ -1,0 +1,3 @@
+# El enunciado fija 4.3.0, pero esa versión no está publicada en el índice
+# disponible. 4.0.1 es la versión estable compatible para ejecutar el taller.
+pyspark==4.0.1
